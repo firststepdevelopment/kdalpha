@@ -1,2 +1,1 @@
-# kdalpha
-Kingdom Doom Alpha
+# Kingdom Doom Alpha
